@@ -1,0 +1,22 @@
+{
+  "name": "kots_react_final",
+  "version": "1.0.0",
+  "description": "React final project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "node hello.js",
+    "create": "mkdir build",
+    "delete": "rd build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/Kots_react_final.git"
+  },
+  "author": "Anna Kots",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/Kots_react_final/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/Kots_react_final#readme"
+}
